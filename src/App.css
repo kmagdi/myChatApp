@@ -1,0 +1,20 @@
+.msg{
+    border:1px solid gray;
+    padding:0.5rem;
+    margin-bottom:0.5rem;
+    border-radius:rounded;
+    display:flex;
+    flex-direction: column;
+    max-width: 300px;
+    border-radius: 20px;
+}
+.msg b{
+    align-self: flex-end;
+}
+.signout{
+    cursor: pointer;
+    padding:5px;
+    border:1px solid gray;
+    max-width: 300px;
+    margin:2px;
+}
